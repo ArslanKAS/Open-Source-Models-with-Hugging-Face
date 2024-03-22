@@ -1,3 +1,3 @@
-# Open Source Models with Hugging Face
+# Open Source Models using Hugging Face
 ![cover](cover.jpg)
 ![components](components.png)
